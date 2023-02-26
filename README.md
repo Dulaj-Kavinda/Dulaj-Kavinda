@@ -13,10 +13,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaj-kavinda&show_icons=true&locale=en&layout=compact" alt="dulaj-kavinda" />&nbsp;</p>
 
-<br><br><br><br>&nbsp;<br>
+<br><br><br><br><br><br>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
+<a href="mailto:kavindadulaj.1998@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="kavindadulaj.1998" height="25" width="35" /></a>
 <a href="https://twitter.com/dulajkavinda98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulajkavinda98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dulaj-kavinda-dasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-kavinda-dasanayake" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9532595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9532595" height="30" width="40" /></a>

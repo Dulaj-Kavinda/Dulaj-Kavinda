@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaj-kavinda&show_icons=true&locale=en&layout=compact" alt="dulaj-kavinda" />&nbsp;</p>
 
-<br><br><br><br><br>
+<br><br><br><br>&nbsp;<br>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

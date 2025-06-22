@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" width="30px" alt="hi">, I'm Dulaj Dasanayake</h1>
 
-<h3 align="center">👨‍💻A Software Engineer at Xeptagon (Pvt) Ltd, Sri Lanka</h3>
-<h3 align="center">👨‍💻Former Software Engineer at LSEG Technology, Sri Lanka</h3>
+<h3 align="center">👨‍💻A Software Engineer</h3
 <h3 align="center">🧑‍🎓A Graduate at Department of Computer Science & Engineering @University of Moratuwa, Sri Lanka</h3>
 <h3 align="center">🧑‍💻Former Software Engineering Intern @WSO2, Sri Lanka</h3>
 

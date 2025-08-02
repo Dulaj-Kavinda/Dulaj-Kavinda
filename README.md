@@ -51,7 +51,7 @@
 <a href="https://stackoverflow.com/users/9532595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9532595" height="30" width="40" /></a>
 <a href="https://kaggle.com/uom180108m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uom180108m" height="30" width="40" /></a>
 <a href="https://instagram.com/dulaj_kavinda_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulaj_kavinda_98" height="30" width="40" /></a>
-<a href="https://medium.com/@dulaj kavinda dasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dulaj kavinda dasanayake" height="30" width="40" /></a>
+<a href="https://medium.com/@DulajDasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dulaj kavinda dasanayake" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dulaj_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dulaj_18" height="30" width="40" /></a>
 </p>
 

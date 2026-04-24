@@ -52,7 +52,7 @@
   <a href="mailto:dulaj.kavinda.dasanayake@gmail.com">
     <img src="https://img.shields.io/badge/Email-Dulaj%20Dasanayake-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.dulaj-kavinda.github.io">
+  <a href="https://dulaj-kavinda.github.io/">
     <img src="https://img.shields.io/badge/Website-dulaj--kavinda.github.io-blue?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dulaj-kavinda-dasanayake">

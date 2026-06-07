@@ -29,7 +29,7 @@
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,dart,php,matlab,bash,html,css,react,nextjs&theme=light&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,dart,php,bash,html,css,react,nextjs&theme=light&perline=12" />
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,flutter,pytorch,tensorflow,sklearn,mysql,mongodb,postgres,firebase&theme=light&perline=12" />
   <br>
